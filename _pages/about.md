@@ -63,10 +63,11 @@ G.B. Pant Govt. Engineering College, Bachelor of Computer Science, 2010-2014
 
 ### Key Problem Solved/Milestones 
 
-Team expansion and improve the productivity by 100% including 1/3rd cost reduction in terms of resourcing.
-Application performance improvement by more than 5X.
-Automation of Manual Process. 
-There are 4000 machines for which department need to perform operations on multiple applications like Excel, WebApp, SAP, Window application etc. Average 10-15 machine can be done manually in a day, which is time consuming process. To solve this automation of excel and browser done using python and Automation of SAP done using scripting.
+* Team expansion and improve the productivity by 100% including 1/3rd cost reduction in terms of resourcing.
+* Application performance improvement by more than 5X.
+* Automation of Manual Process.  
+
+* There are 4000 machines for which department need to perform operations on multiple applications like Excel, WebApp, SAP, Window application etc. Average 10-15 machine can be done manually in a day, which is time consuming process. To solve this automation of excel and browser done using python and Automation of SAP done using scripting. *
 
 **Senior Software Engineer-R&D**  
 **wind Moeller & Hoelscher India | 12/2019 – 01/2023 | Delhi, India**
@@ -93,13 +94,15 @@ Worked on multiple technology stack tools and languages including Back-End, Fron
 Worked here as Lead Developer, Senior developer on multiple projects in multiple domains of Payments, ERP, Insurance. Company is a service-based company providing software solutions primarily to U.S. markets.
 * Worked as a lead developer on a Payment project of US based leading payment solution provider on there multiple products including Payment Gateway, Merchant Portals, Chargeback Management System and interface development and communication with different payment processor providers.
 *	Worked on the project of aviation insurance start-up as Lead developer, develop the solution using React, AWS-Lambda, DynamoDB, Route53, .Net Core, API gateway, Auth0 as single sign on.
-*	Worked and lead the team of three developer for a ERP platform implementation for a travel agency based in US as client is authorized travel agent and cargo shipment for CUBA. We need to create a portal for cargo tracking, Passport tracking, VISA status tracking, Photo Booth o 	Implement the Passport, VISA, and Cargo tracking portal.
-•	Implement the Barcode generation, and its tracking implementation.
+*	Worked and lead the team of three developer for a ERP platform implementation for a travel agency based in US as client is authorized travel agent and cargo shipment for CUBA. We need to create a portal for cargo tracking, Passport tracking, VISA status tracking, Photo Booth o 	Implement the Passport, VISA, and Cargo tracking portal.  
+*	Implement the Barcode generation, and its tracking implementation.
 o Integration with Android Phone. Customer can see the status of their Passport/VISA/Cargo through APP.
-•	Work on the fleet tracking project, here work on the migration of SQL Server from BareMetal to AWS Cloud. Integration and implementation of AWS SQS with API gateway and Lambda Function.
-Key Problem Solved/Milestone
-•	Handle and manage the entire communication on Payment projects from Indian Team (6 dev, 4 QA) and deliver the quality development without any major issue. The Payment Project is awarded the Quarter Best Project from 400+ running project of company. 
-•	ERP Project awarded the project with best coding standards, architecture, and documentation process. 
+*	Work on the fleet tracking project, here work on the migration of SQL Server from BareMetal to AWS Cloud. Integration and implementation of AWS SQS with API gateway and Lambda Function.
+
+### Key Problem Solved/Milestone
+
+* Handle and manage the entire communication on Payment projects from Indian Team (6 dev, 4 QA) and deliver the quality development without any major issue. The Payment Project is awarded the Quarter Best Project from 400+ running project of company. 
+* ERP Project awarded the project with best coding standards, architecture, and documentation process. 
 
 **Software Engineer**  
 **AtDrive Inc. | 02/2016-12/2017 | NOIDA, India**
