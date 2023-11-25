@@ -66,8 +66,7 @@ G.B. Pant Govt. Engineering College, Bachelor of Computer Science, 2010-2014
 * Team expansion and improve the productivity by 100% including 1/3rd cost reduction in terms of resourcing.
 * Application performance improvement by more than 5X.
 * Automation of Manual Process.  
-
-* There are 4000 machines for which department need to perform operations on multiple applications like Excel, WebApp, SAP, Window application etc. Average 10-15 machine can be done manually in a day, which is time consuming process. To solve this automation of excel and browser done using python and Automation of SAP done using scripting. *
+* There are 4000 machines for which department need to perform operations on multiple applications like Excel, WebApp, SAP, Window application etc. Average 10-15 machine can be done manually in a day, which is time consuming process. To solve this automation of excel and browser done using python and Automation of SAP done using scripting.
 
 **Senior Software Engineer-R&D**  
 **wind Moeller & Hoelscher India | 12/2019 – 01/2023 | Delhi, India**
