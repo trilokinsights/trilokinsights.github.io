@@ -10,10 +10,10 @@ redirect_from:
 
 *	A problem solver, multi stack developer with experience of more than 9+ years in problem solving, research and development and proven track record of delivering in multiple technology and business domains.
 
-*	Currently working as a Project Manager cum Lead Senior Developer managing and actively involve in development of multiple projects in
-  * Microservice Based IOT application development including looking CNCF different project Integration in application stack.
-
-  * including managing the projects in Automation using python etc.
+*	Currently working as a Project Manager cum Lead Senior Developer managing and actively involve in development of multiple projects in IOT ,Automation and Cloud.
+  
+* Experience in agile methodologies development using different project management tools like JIRA, Open-Project, With coordination and communication with Product owners/product managers and involve in task and resource planning with active involvement in software architecture development as well. 
+    
 *	In Past Delivered work in multiple tech stack [Front-End, Back-End, Dev-Ops, Cloud] in the domain of IOT, Payment &Banking, Health, Insurance, Custom-ERP
 
 *	Involve in architecting and development of more than 20+ Projects from scratch. Lead Developer in more than 40+ projects, so far and list goes on.
@@ -54,7 +54,7 @@ G.B. Pant Govt. Engineering College, Bachelor of Computer Science, 2010-2014
 
 
 **Project Manager- Software Development**  
-**Wind Moeller & Hoelscher India | 02/2023 – Present | Delhi, India**
+**WindMoller & Holscher India | 02/2023 – Present | Delhi, India**
 
 ### Roles & Responsibilities
 
@@ -63,13 +63,13 @@ G.B. Pant Govt. Engineering College, Bachelor of Computer Science, 2010-2014
 
 ### Key Problem Solved/Milestones 
 
-* Team expansion and improve the productivity by 100% including 1/3rd cost reduction in terms of resourcing.
-* Application performance improvement by more than 5X.
-* Automation of Manual Process.  
-* There are 4000 machines for which department need to perform operations on multiple applications like Excel, WebApp, SAP, Window application etc. Average 10-15 machine can be done manually in a day, which is time consuming process. To solve this automation of excel and browser done using python and Automation of SAP done using scripting.
+*  ### Team expansion and improve the productivity by 100% including 1/3rd cost reduction in terms of resourcing.
+*  ### Application performance improvement by more than 5X.
+*  ### Automation of Manual Process.  
+    * There are more than 4K+ machines for which department need to perform operations on multiple applications like Excel, WebApp, SAP, Window application etc. Average 10-15 machine can be done manually in a day, which is time consuming process. To solve this automation of excel and browser done using python and Automation of SAP done using scripting.
 
 **Senior Software Engineer-R&D**  
-**wind Moeller & Hoelscher India | 12/2019 – 01/2023 | Delhi, India**
+**windMoller & Holscher India | 12/2019 – 01/2023 | Delhi, India**
 
 ### Roles & Responsibilities
 
